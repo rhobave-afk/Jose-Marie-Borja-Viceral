@@ -7,21 +7,17 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+## About the Archive
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+**Jose Marie Borja Viceral**, widely known as **Vice Ganda**, is one of the most iconic and influential entertainers in Philippine popular culture. Recognized as the *“Unkabogable Star,”* Vice Ganda has made a lasting impact on comedy, television, film, and music through unmatched charisma, wit, and authenticity.
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+This archive is a multimedia collection dedicated to preserving and celebrating the life, career, and legacy of Vice Ganda. It features selected video compilations, memorable on-screen moments, iconic performances, and highlights from blockbuster films that showcase the evolution of their career in Philippine entertainment.
 
-## About the Collection
+From stand-up comedy stages to becoming a leading television host and box-office superstar, Vice Ganda has consistently redefined Filipino entertainment by blending humor with relatability, social commentary, and self-expression. Their work has inspired millions while promoting inclusivity, resilience, and confidence.
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Through this archive, viewers can revisit unforgettable movie scenes, television appearances, comedic milestones, and cultural moments that solidified Vice Ganda’s place as one of the most celebrated personalities in the Philippines.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+This collection stands as both a tribute and a historical record—ensuring that the artistry, influence, and unforgettable legacy of **Jose Marie Borja Viceral** continue to entertain and inspire generations to come.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+## Creator
+This database was created by Amiel Valeska Therese Guinto in partial fulfillment of the requirements for ART003: Arts Appreciation (2nd Semester, AY 2025–2026) under the guidance of Prof. Adrian Mendizabal.
